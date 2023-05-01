@@ -1,0 +1,21 @@
+.outer{
+    border: black 6px solid;
+    width: 400px;
+    height: 200px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.inner{
+    border: red solid 6px;
+    width: 250px;
+    height: 100px;
+    color: red;
+}
+.position{
+    color: #0000ff;
+    width: 158px;
+    height: 218.5px;
+    border: solid 6px #0000ff;
+    position: absolute;
+    margin-top: 16px;
+}
